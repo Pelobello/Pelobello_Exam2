@@ -44,20 +44,20 @@ public class Pelobello_Exam2 {
                      case 3: 
                          list.add("Fita");
                          list.add("Pride Powder");
-                         list.add("Canola oil");
-                         list.add("Nescafe Black Coffee");
-                         list.add("Ariel Powder");
+                         list.add("Canola_oil");
+                         list.add("Nescafe_Black_Coffee");
+                         list.add("Ariel_Powder");
                          list.add("Rebisco");
                          list.add("Steelwoll");
-                         list.add("Head and Shoulder");
+                         list.add("Head_and_Shoulder");
                          list.add("Nova");
                          list.add("Tanduay");
-                         list.add("Bear Brand");
-                         list.add("Nature Spring");
-                         list.add("Nature Spring Mineral Water 8oz");
-                         list.add("Coke 1ltr");
-                         list.add("Sprite Kasalo");
-                         list.add("Royal 1ltr");
+                         list.add("Bear_Brand");
+                         list.add("Nature_Spring");
+                         list.add("Nature_Spring_Mineral_Water_8oz");
+                         list.add("Coke_1ltr");
+                         list.add("Sprite_Kasalo");
+                         list.add("Royal_1ltr");
                          list.add("Sugar");
                         
                     
